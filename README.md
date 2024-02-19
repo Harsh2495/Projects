@@ -3,7 +3,7 @@
 
 ## Dashboard Automation - 
 
-* [Blocked Number Analysis]([https://colab.research.google.com/drive/1vB_J9_OLrQ_brwsi-yMQ-cn_yqvwxotH](https://colab.research.google.com/drive/1oQJ32xvWECW5VBfy1cFoivBRpsbEPmSP))
+* [Blocked Number Analysis](https://colab.research.google.com/drive/1oQJ32xvWECW5VBfy1cFoivBRpsbEPmSP))
 
 
 ## SQL & Python - 
